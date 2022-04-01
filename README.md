@@ -7,3 +7,6 @@ You justa have to hit "Run" and it lauch de JAR
 I leave the code if you want to try yourself...
 
 Happy codding...
+
+
+But wait... if you dont have Java... Im gonna leave the JRE and JDK for you to download..
