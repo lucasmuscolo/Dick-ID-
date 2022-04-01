@@ -1,4 +1,4 @@
-# Dick-ID-
+# Disck-ID-
 a simple tool to read you hard drive disk
 
 Hi everybody... I just wanted to share this tool that i use once in a wile but it's very handy when you need it.
